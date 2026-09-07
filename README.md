@@ -1,16 +1,16 @@
-# Olá, eu sou Davi Santos 👋
+# Olá, eu sou Davi Santos
 
-### 🎓 Estudante de Engenharia de Software | 💻 Desenvolvimento Full Stack
+### Desenvolvedor Full Stack
 
-Sou estudante de **Engenharia de Software**, com formação técnica em **Informática** e experiência prática no desenvolvimento de aplicações **web, mobile e desktop**.
+Sou desenvolvedor com experiência prática na construção de aplicações **web, mobile e desktop**, atuando tanto no frontend quanto no backend.
 
-Tenho experiência com desenvolvimento **Full Stack**, trabalhando principalmente com **JavaScript, React, Node.js, Express, PHP/Laravel** e bancos de dados relacionais.
+Trabalho principalmente com **JavaScript, React, Node.js, Express, PHP/Laravel** e bancos de dados relacionais. Tenho experiência na construção de **APIs REST, sistemas desktop, aplicações mobile, autenticação, controle de acesso, testes automatizados e modelagem de bancos de dados**.
 
-Atualmente, busco uma oportunidade de **estágio ou posição júnior em desenvolvimento de software**, onde possa contribuir com projetos reais, desenvolvimento de APIs e evolução de produtos digitais.
+Gosto de transformar ideias e necessidades reais em soluções de software, buscando desenvolver aplicações organizadas, seguras e escaláveis.
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 ### Linguagens
 
@@ -51,33 +51,32 @@ Atualmente, busco uma oportunidade de **estágio ou posição júnior em desenvo
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 </p>
 
-Também tenho experiência com **APIs REST, testes automatizados, autenticação, controle de acesso, modelagem de banco de dados, proteção de sessões, auditoria e backups**.
-
 ---
 
-## 📌 Projetos em Destaque
+## 🚀 Experiência Prática
+
+Minha experiência prática em desenvolvimento está concentrada na construção de aplicações completas, trabalhando desde a estruturação do projeto e banco de dados até frontend, backend, autenticação e testes.
 
 ### 🛒 MercaFácil
 
-**Sistema desktop de gestão comercial — em desenvolvimento**
+**Sistema desktop de gestão comercial • Projeto em desenvolvimento**
 
-Aplicação desktop offline voltada para pequenos comércios, reunindo diferentes áreas da operação comercial em um único sistema.
+Aplicação desktop offline para pequenos comércios, reunindo diferentes processos de gestão comercial em uma única plataforma.
 
 **Principais funcionalidades:**
 
-* Vendas
-* Controle de estoque
-* Compras
-* Fornecedores
-* Contas a pagar e receber
-* Relatórios
-* Usuários e permissões
-* Auditoria
-* Backups
-* Autenticação
-* Proteção de sessões
-* Banco de dados local criptografado
-* Testes automatizados
+- Vendas
+- Controle de estoque
+- Compras
+- Fornecedores
+- Contas a pagar e receber
+- Relatórios
+- Usuários e permissões
+- Auditoria
+- Backups
+- Autenticação e proteção de sessões
+- Banco de dados local criptografado
+- Testes automatizados
 
 **Tecnologias:**
 
@@ -85,21 +84,21 @@ Aplicação desktop offline voltada para pequenos comércios, reunindo diferente
 
 ---
 
-### 🎓 IntegraEdu
+### IntegraEdu
 
-**Plataforma acadêmica multi-escola — projeto acadêmico em evolução**
+**Plataforma acadêmica multi-escola • Projeto em evolução**
 
-Projeto voltado para a evolução de um sistema acadêmico para uma plataforma destinada a **escolas profissionalizantes e empresas parceiras**, incluindo gerenciamento de documentos, vagas e candidaturas.
+Plataforma voltada para escolas profissionalizantes e empresas parceiras, envolvendo documentos, vagas e candidaturas.
 
-**Principais recursos:**
+**Desenvolvimento de:**
 
-* API
-* Painel administrativo
-* Aplicativo estudantil
-* Autenticação MFA
-* Contexto por escola
-* Geração de documentos
-* Testes automatizados
+- APIs
+- Painel administrativo
+- Aplicativo mobile
+- Autenticação MFA
+- Contexto por escola
+- Geração de documentos
+- Testes automatizados
 
 **Tecnologias:**
 
@@ -107,46 +106,13 @@ Projeto voltado para a evolução de um sistema acadêmico para uma plataforma d
 
 ---
 
-## 💼 Experiência
+## Formação
 
-### Desenvolvedor Web — Inlumne Consultoria
+**Engenharia de Software — UNIFSA**  
+Em andamento
 
-**Dezembro de 2025 – Janeiro de 2026**
-
-Desenvolvimento da landing page institucional da startup conforme as necessidades do negócio, utilizando **HTML, CSS e JavaScript**.
-
-* Apresentação de serviços
-* Formulário de contato
-* Integração com WhatsApp
-* Publicação do site institucional
-
-### Repositor — Carvalho Super
-
-**Julho de 2024 – Setembro de 2025**
-
-Atuação na organização de gôndolas, acompanhamento da validade de produtos e apoio à rotina operacional do setor.
-
-### Vendedor — M3 Arena Informática
-
-**Setembro de 2023 – Março de 2024**
-
-Atendimento ao cliente e realização de vendas de eletrônicos e acessórios para celulares.
-
----
-
-## 🎓 Formação
-
-**Bacharelado em Engenharia de Software — UNIFSA**
-
-Em andamento • Conclusão prevista: dezembro de 2029
-
-**Ensino Médio Integrado ao Técnico em Informática — CETI José Pacífico de Moura Neto**
-
-2023 – 2025
-
-**Curso de JavaScript — Curso em Vídeo**
-
-40 horas • Concluído
+**Técnico em Informática — CETI José Pacífico de Moura Neto**  
+Concluído em 2025
 
 ---
 
@@ -163,17 +129,17 @@ Em andamento • Conclusão prevista: dezembro de 2029
 
 ---
 
-## 📫 Contato
+## Conecte-se comigo
 
 <p>
-  <a href="mailto:donascimentosantosdavi99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/DaviSxntz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/davi-santos-5602b8396">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/DaviSxntz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:donascimentosantosdavi99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -181,6 +147,6 @@ Em andamento • Conclusão prevista: dezembro de 2029
 
 <div align="center">
 
-### 💻 Construindo projetos, aprendendo continuamente e evoluindo como desenvolvedor.
+### Desenvolvendo, aprendendo e evoluindo através de projetos.
 
 </div>
