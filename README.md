@@ -8,8 +8,6 @@ Trabalho principalmente com **JavaScript, React, Node.js, Express, PHP/Laravel**
 
 Gosto de transformar ideias e necessidades reais em soluções de software, buscando desenvolver aplicações organizadas, seguras e escaláveis.
 
----
-
 ## Tecnologias
 
 ### Linguagens
@@ -53,11 +51,11 @@ Gosto de transformar ideias e necessidades reais em soluções de software, busc
 
 ---
 
-## 🚀 Experiência Prática
+## Experiência Prática
 
 Minha experiência prática em desenvolvimento está concentrada na construção de aplicações completas, trabalhando desde a estruturação do projeto e banco de dados até frontend, backend, autenticação e testes.
 
-### 🛒 MercaFácil
+### MercaFácil
 
 **Sistema desktop de gestão comercial • Projeto em desenvolvimento**
 
