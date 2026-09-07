@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./bannerpng.png" alt="Davi Santos - Desenvolvedor Full Stack" width="100%">
+</div>
+
+<br>
+
 # Olá, eu sou Davi Santos
 
 ### Desenvolvedor Full Stack
